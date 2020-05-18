@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client/src"/>
+	<classpathentry kind="src" path="Source/src"/>
+	<classpathentry kind="lib" path="Client/Client.jar"/>
+	<classpathentry kind="lib" path="Client/lib/theme.jar"/>
+	<classpathentry kind="lib" path="Client/lib/trident.jar"/>
+	<classpathentry kind="lib" path="Client/out/artifacts/Lx_Client_jar/Lx Client.jar"/>
+	<classpathentry kind="lib" path="Client/out/artifacts/Lx_Client_jar/LxClient.jar"/>
+	<classpathentry kind="lib" path="Source/lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="Source/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Source/lib/everythingrs-api.jar"/>
+	<classpathentry kind="lib" path="Source/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="Source/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="Source/lib/javacord-3.0.4-shaded.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/everythingrs-api.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/javacord-3.0.4-shaded.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/motiservice-api-1-0-2.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/Motivote-server.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/mvgate3.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/netty-3.5.8.Final.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="Source/lib/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="Source/lib/motiservice-api-1-0-2.jar"/>
+	<classpathentry kind="lib" path="Source/lib/Motivote-server.jar"/>
+	<classpathentry kind="lib" path="Source/lib/mvgate3.jar"/>
+	<classpathentry kind="lib" path="Source/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="Source/lib/netty-3.5.8.Final.jar"/>
+	<classpathentry kind="lib" path="Source/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="Source/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="Client/bin"/>
+</classpath>
